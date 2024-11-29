@@ -1,3 +1,0 @@
-# PowerOutages-Analysis
-
-## Data-Cleaning
